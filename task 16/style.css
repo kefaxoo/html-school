@@ -1,0 +1,25 @@
+body {
+    background-color:wheat;
+    font-size: 20px;
+    color: navy;
+}
+h1 {
+    font-size: 32px;
+    text-align: center;
+    color:maroon;
+}
+p {
+    text-align: justify;
+}
+hr {
+    height: 4px;
+    color:blue;
+}
+a {
+    font-size: 22px;
+}
+img {
+    width: 150px;
+    margin: auto;
+    display: block;
+}
