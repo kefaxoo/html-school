@@ -1,0 +1,22 @@
+body {
+    background-image: url(images/background.jpg);
+}
+h1 {
+    font-family: Arial;
+    font-size: 30px;
+    color: red;
+    text-align: center;
+}
+p {
+    font-size: 18px;
+    color: navy;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 40px;
+}
+img {
+    border: solid 5px;
+    border-color: darkred;
+    width: 300px;
+    height: 200px;
+}
