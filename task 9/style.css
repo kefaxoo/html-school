@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: white;
+}
+H1 {
+    font-size: 36px;
+    text-align: center;
+}
+P {
+    border: yellow;
+    border-style: dotted;
+    border-width: thick;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+}
