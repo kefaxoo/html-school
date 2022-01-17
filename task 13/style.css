@@ -1,0 +1,32 @@
+body {
+    background-color: lavender;
+    font-family: Times;
+}
+h1 {
+    color: red;
+    font-size: 32px;
+    text-align: center;
+}
+h2 {
+    font-size: 24px;
+    font-style: italic;
+    text-align: right;
+}
+h3 {
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+img {
+    border: thick;
+    border-style: double;
+    border-color: black;
+    width: 300px;
+    height: 200px;
+    margin: auto;
+    display: block;
+}
+p {
+    font-size: 20px;
+    text-align: justify;
+}
