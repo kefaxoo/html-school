@@ -1,0 +1,18 @@
+h1 {
+    color: brown;
+    font-family: Gabriola;
+    text-align: center;
+}
+body {
+    background-image: url(images/background.jpg);
+}
+#rectangle {
+    margin: auto;
+    display: block;
+    width: 600px;
+    height: 600px;
+    background-color: beige;
+}
+img {
+    width: 30%;
+}
