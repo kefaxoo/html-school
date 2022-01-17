@@ -1,0 +1,27 @@
+body {
+    background-image: url(images/background.jpg);
+    background-size: 90%;
+}
+h1 {
+    text-align: center;
+}
+img {
+    width: 110px;
+    float: left;
+}
+h2 {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 5ex;
+}
+p {
+    text-align: center;
+}
+video {
+    margin: auto;
+    display: block;
+}
+audio {
+    margin: auto;
+    display: block;
+}
