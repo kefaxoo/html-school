@@ -1,0 +1,27 @@
+body {
+    background-image: url(images/background.jpg);
+}
+h1 {
+    font-size: 36px;
+    text-align: center;
+}
+h2 {
+    font-size: 24px;
+    text-align: center;
+}
+p {
+    font-size: 16px;
+    text-align: justify;
+}
+table {
+    width: 100%;
+}
+td {
+    text-align: center;
+}
+a {
+    font-size: 24px;
+}
+h3 {
+    text-align: center;
+}
