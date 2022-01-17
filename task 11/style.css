@@ -1,0 +1,26 @@
+H1 {
+    color: blue;
+    text-align: center;
+    font-size: 28px;
+}
+H2 {
+    color: red;
+    font-size: 22px;
+}
+table {
+    width: 50%;
+    border-style: solid;
+    height: 3px;
+    border-color: darkblue;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+td {
+    width: 50%;
+    border-color: green;
+    border-style: solid;
+    border: 3;
+    background-image: url("images/background.jpg");
+    background-size: 100%;
+}
