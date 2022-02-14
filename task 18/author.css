@@ -1,0 +1,31 @@
+body {
+    background-image: url(images/background.jpg);
+}
+h1 {
+    color: brown;
+    font-family: Gabriola;
+    text-align: center;
+    font-size: 80;
+}
+table {
+    border-style: solid;
+    border-width: 1px;
+}
+td {
+    font-size: 30;
+    border-style: solid;
+}
+img {
+    width:300px;
+}
+h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 50;
+}
+h3 {
+    text-align: left;
+    font-size: 25;
+    margin-left: 20px;
+    font-weight: 100;
+}
