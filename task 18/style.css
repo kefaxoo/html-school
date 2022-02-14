@@ -14,5 +14,8 @@ body {
     background-color: beige;
 }
 img {
-    width: 30%;
+    width: 150px;
+}
+td {
+    text-align: center;
 }
